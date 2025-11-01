@@ -40,13 +40,13 @@ cd go-shell
 go run main.go
 ```
 ## How It Works
--Reads user input via bufio.Reader
+- Reads user input via bufio.Reader
 
--Supports built-in commands via switch logic
+- Supports built-in commands via switch logic
 
--Other commands are executed via os/exec.Command
+- Other commands are executed via os/exec.Command
 
--Displays prompt using os.Getwd() to get current directory
+- Displays prompt using os.Getwd() to get current directory
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it for educational or personal use.
