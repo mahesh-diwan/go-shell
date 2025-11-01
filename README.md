@@ -16,6 +16,11 @@ A minimalist command-line shell written in Go. This shell allows users to run sy
 
 ---
 
+## Demo 
+![alt Preview Image](https://github.com/mahesh-diwan/go-shell/assets/image.png)
+## Video Preview
+https://github.com/mahesh-diwan/go-shell/assets/video.mp4
+
 ## 📦 Requirements
 
 - [Go](https://go.dev/dl/) 1.18 or later
