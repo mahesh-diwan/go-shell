@@ -32,7 +32,7 @@ A minimalist command-line shell written in Go. This shell allows users to run sy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/go-shell.git
+git clone https://github.com/mahesh-diwan/go-shell.git
 cd go-shell
 ```
 ### 2. Run the Shell
